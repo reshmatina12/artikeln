@@ -56,8 +56,7 @@ pip install -r requirements.txt
 
 4.
 
-python app.py
-pytest -q
+python -m pytest -q
 
 
 5. 
@@ -113,3 +112,4 @@ git push
 
 
 GitHub ---> Actions
+
